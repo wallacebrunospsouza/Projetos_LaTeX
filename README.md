@@ -27,6 +27,5 @@ Este repositório é distribuído sob a [Licença MIT](LICENSE). Sinta-se livre 
 
 ## 👤 Autor
 
-**Seu Nome**  
 [Wallace Bruno S.P Souza](https://github.com/wallacebrunospsouza)  
 [wallacebrunospsouza82@gmail.com](wallacebrunospsouza82@gmail.com)  
