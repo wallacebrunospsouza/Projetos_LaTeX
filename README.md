@@ -16,11 +16,6 @@ Os documentos podem ser editados e compilados em qualquer ambiente compatível c
 
 ---
 
-> _“Detalhe é o que transforma o técnico em arte.”_  
-> — Este repositório é um exercício contínuo de forma, clareza e expressão escrita.
-
----
-
 ## 📄 Licença
 
 Este repositório é distribuído sob a [Licença MIT](LICENSE). Sinta-se livre para explorar, adaptar e reutilizar o conteúdo com os devidos créditos.
