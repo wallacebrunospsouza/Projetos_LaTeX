@@ -28,8 +28,9 @@ Este repositório é distribuído sob a [Licença MIT](LICENSE). Sinta-se livre 
 ## 👤 Autor
 
 Desenvolvido com dedicação por **Wallace Bruno S. P. Souza**  
-📧 Entre em contato: [wallacebrunospsouza82@gmail.com](wallacebrunospsouza82@gmail.com)  
+📧 Entre em contato: [wallacebrunospsouza82@gmail.com](https://mail.google.com/mail/?view=cm&to=wallacebrunospsouza82@gmail.com)  
 🔗 GitHub: [@wallacebrunospsouza](https://github.com/wallacebrunospsouza)
 
 Se você gostou deste projeto, sinta-se à vontade para explorar mais repositórios ou entrar em contato para colaborações!
+
 
