@@ -20,7 +20,6 @@ Os documentos podem ser editados e compilados em qualquer ambiente compatível c
 
 Este repositório é distribuído sob a [Licença MIT](LICENSE). Sinta-se livre para explorar, adaptar e reutilizar o conteúdo com os devidos créditos.
 
----
 
 ## 👤 Autor
 
