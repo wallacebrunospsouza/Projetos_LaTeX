@@ -29,8 +29,10 @@ Este repositório é distribuído sob a [Licença MIT](LICENSE). Sinta-se livre 
 
 Desenvolvido com dedicação por **Wallace Bruno S. P. Souza**  
 📧 Entre em contato: [wallacebrunospsouza82@gmail.com](https://mail.google.com/mail/?view=cm&to=wallacebrunospsouza82@gmail.com)  
-🔗 GitHub: [@wallacebrunospsouza](https://github.com/wallacebrunospsouza)
+🔗 GitHub: [@wallacebrunospsouza](https://github.com/wallacebrunospsouza)  
+💼 LinkedIn: [linkedin.com/in/wallace-bruno-santos-pereira-de-souza-a50957223](https://www.linkedin.com/in/wallace-bruno-santos-pereira-de-souza-a50957223)
 
 Se você gostou deste projeto, sinta-se à vontade para explorar mais repositórios ou entrar em contato para colaborações!
+
 
 
